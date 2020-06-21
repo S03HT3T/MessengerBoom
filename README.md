@@ -1,4 +1,4 @@
-# MessengerBoom
+# MessengerBoom!!
 
  Thanks for using My Tool and Goodluck!
  
@@ -11,6 +11,6 @@
 
 # Usage
 
-	python3 messengerboom.py
+	python3 MessengerBoom.py
 
 ![alt text](https://i.imgur.com/GVgAdfq.png)
