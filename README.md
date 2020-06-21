@@ -1,6 +1,6 @@
 # MessengerBoom
 
- Thanks for using My Tools and Goodluck!
+ Thanks for using My Tool and Goodluck!
  
 # Installation
 
