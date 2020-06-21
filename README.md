@@ -1,12 +1,12 @@
 # MessengerBoom
 
-#Installation
+# Installation
 
-git clone 
+git clone
 cd MessengerBoom
 pip3 install requirement.txt
 chmod +x MessengerBoom.py
 
-#Usage
+# Usage
 
 python3 messengerboom.py
